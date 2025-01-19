@@ -1,1 +1,1 @@
-printf("phuc dep trai1");
+printf("phuc dep trai");
